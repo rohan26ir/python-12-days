@@ -1,0 +1,3 @@
+Hello Python!
+Learning File Handling.
+New line added.

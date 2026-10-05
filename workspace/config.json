@@ -1,0 +1,5 @@
+{
+  "service": "auth",
+  "port": 8080,
+  "ssl_enabled": true
+}
